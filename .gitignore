@@ -1,0 +1,18 @@
+# Build output
+backend/target/
+frontend/dist/
+frontend/node_modules/
+
+# Files the running app creates
+backend/logs/
+backend/data/
+
+# Local secrets (see backend/local.properties.example)
+backend/local.properties
+
+# Editors / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db

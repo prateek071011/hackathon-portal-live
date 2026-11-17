@@ -1,0 +1,9 @@
+title,organizer,description,startDate,endDate,registrationDeadline,minTeamSize,maxTeamSize
+CodeSprint 2026,Greenfield Tech Club,"24-hour build sprint. Any stack, any idea.",2026-12-12,2026-12-13,2026-12-05,2,4
+GreenHack,Riverside Eco Society,Software for a cleaner campus,2027-01-16,2027-01-17,2027-01-08,3,5
+AI for Good,City Developers Forum,"Use AI to help your local community: health, transport, education",2027-02-06,2027-02-07,2027-01-28,2,3
+Winter Game Jam,Indie Makers,Make a small game in 48 hours,2026-11-20,2026-11-22,2026-11-15,1,4
+Autumn Hack,Greenfield Tech Club,Last term's hackathon,2026-10-10,2026-10-11,2026-10-01,2,4
+Bad Date Hack,Some Club,This line has an impossible month,2027-13-01,2027-01-21,2027-01-10,2,4
+Upside Down Teams,Some Club,Minimum is bigger than maximum,2027-03-01,2027-03-02,2027-02-20,5,3
+Late Deadline,Some Club,Deadline is after the start date,2027-03-01,2027-03-02,2027-03-05,2,4
