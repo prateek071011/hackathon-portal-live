@@ -3,9 +3,7 @@
 // says the request failed it throws an Error carrying the backend's message.
 // It also remembers the session (token + user) in localStorage so a page reload keeps you logged in.
 
-const API_BASE = 'http://localhost:8080/api';
-const TOKEN_KEY = 'htf_token';
-const USER_KEY = 'htf_user';
+const API_BASE = import.meta.env.VITE_API_URL || 'http://localhost:8080/api';const USER_KEY = 'htf_user';
 
 // ---------- Session (token + user) ----------
 
